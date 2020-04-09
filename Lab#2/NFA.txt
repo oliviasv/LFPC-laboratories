@@ -1,0 +1,17 @@
+a b c
+
+q0 
+
+q3
+
+q0 a q1
+
+q1 b q2
+
+q2 c q0
+
+q1 a q3
+
+q0 b q2
+
+q2 c q3
