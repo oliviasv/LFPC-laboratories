@@ -1,0 +1,5 @@
+S -> aB | AC 
+A -> a | ACSC | BC 
+B -> b | aA
+C -> epsilon | BA
+E -> bB
